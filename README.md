@@ -16,13 +16,14 @@ The R script and html output are inside the folder: raw_data,
 the original data is also located there.
 
 # Selected Output
-![PCA plot](thepaper/ggpcaplot.png)
-<img src="thepaper/ggpcaplot.png" width="48">
 
-![Biplot](thepaper/biplot.png)
+<img src="thepaper/ggpcaplot.png" width="200">
 
-![Classification Tree](thepaper/classificationTree.png)
-![Random Forest](thepaper/rf.png)
+<img src="thepaper/biplot.png" width="200">
+<img src="thepaper/classificationTree.png" width="200">
+<img src="thepaper/rf.png" width="200">
+
+
 
 ![DMS](thepaper/dms.png)
 
