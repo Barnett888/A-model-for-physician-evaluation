@@ -17,7 +17,7 @@ the original data is also located there.
 
 # Output
 
-![This is an image] ../classificationTree.png
+![This is an image] (https://github.com/Barnett888/A-model-for-physician-evaluation/blob/main/thepaper/classificationTree.png)
 
 
 # Conclusion
