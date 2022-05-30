@@ -1,5 +1,9 @@
 # A-model-for-physician-evaluation
-SSC2022 case1
+SSC2022 case1 
+
+https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference
+
+https://ssc.ca/en/case-study/developing-a-physician-performance-model-critical-care-assessing-quality-and-value 
 
 # Abstract
 Since the last century, many efforts have been spent developing the ability of a
