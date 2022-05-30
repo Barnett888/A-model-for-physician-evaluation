@@ -15,8 +15,10 @@ performance.
 The R script and html output are inside the folder: raw_data, 
 the original data is also located there.
 
-# Output
+# Selected Output
 ![PCA plot](thepaper/ggpcaplot.png)
+<img src="thepaper/ggpcaplot.png" width="48">
+
 ![Biplot](thepaper/biplot.png)
 
 ![Classification Tree](thepaper/classificationTree.png)
