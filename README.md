@@ -15,6 +15,11 @@ performance.
 The R script and html output are inside the folder: raw_data, 
 the original data is also located there.
 
+# Output
+
+![This is an image] ../classificationTree.png
+
+
 # Conclusion
 We developed a machine learning model that predicts whether a given patient will survive, assigning
 to a particular physician. From our analysis, we can conclude whether a patient is alive after
