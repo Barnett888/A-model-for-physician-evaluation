@@ -17,7 +17,7 @@ the original data is also located there.
 
 # Output
 
-![This is an image] (thepaper/classificationTree.png)
+![Classification Tree](thepaper/classificationTree.png)
 
 
 # Conclusion
