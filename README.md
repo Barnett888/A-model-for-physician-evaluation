@@ -16,9 +16,13 @@ The R script and html output are inside the folder: raw_data,
 the original data is also located there.
 
 # Output
+![PCA plot](thepaper/ggpcaplot.png)
+![Biplot](thepaper/biplot.png)
 
 ![Classification Tree](thepaper/classificationTree.png)
+![Random Forest](thepaper/rf.png)
 
+![DMS](thepaper/dms.png)
 
 # Conclusion
 We developed a machine learning model that predicts whether a given patient will survive, assigning
