@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Background}{}% 1
+\BOOKMARK [1][-]{section.2}{Data set}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{physician data}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{patient data}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Method}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Naive KNN}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Classification Tree}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Random Forest}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{PCA}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.5}{DMS}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Results}{}% 11
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 12
+\BOOKMARK [1][-]{section.6}{Acknowledgement}{}% 13

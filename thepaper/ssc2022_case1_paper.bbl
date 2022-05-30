@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{BreimanL}
+{Breiman Leo}.
+\newblock {\em Classification and Regression Trees}.
+\newblock Wadsworth International Group, 1984.
+
+\bibitem{Breiman}
+{Breiman Leo}.
+\newblock Random forests.
+\newblock {\em Machine Learning}, 45:5--32, 10 2001.
+
+\bibitem{KNN}
+Gongde Guo, Hui Wang, David Bell, and Yaxin Bi.
+\newblock Knn model-based approach in classification.
+\newblock 08 2004.
+
+\bibitem{Jacobs}
+{Jacobs \& Noseworthy TW}.
+\newblock National estimates of intensive care utilization and costs: Canada
+  and the united states.
+\newblock {\em Critical care medicine}, 18(11):1282—1286, November 1990.
+
+\bibitem{Lambden}
+{Lambden Simon \& Laterre Pierre}.
+\newblock The sofa score - development, utility and challenges of accurate
+  assessment in clinical trials.
+\newblock {\em Critical Care}, 23, 12 2019.
+
+\bibitem{Mishra}
+Sidharth Mishra, Uttam Sarkar, Subhash Taraphder, Sanjoy Datta, Devi Swain,
+  Reshma Saikhom, Sasmita Panda, and Menalsh Laishram.
+\newblock Principal component analysis.
+\newblock {\em International Journal of Livestock Research}, page~1, 01 2017.
+
+\bibitem{Street}
+{Street \& Andrew}.
+\newblock Future of quality measurement in the national health service.
+\newblock {\em Expert review of pharmacoeconomics and outcomes research},
+  6:245--8, 06 2006.
+
+\end{thebibliography}
