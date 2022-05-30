@@ -17,11 +17,11 @@ the original data is also located there.
 
 # Selected Output
 
-<img src="thepaper/ggpcaplot.png" width="200">
+<img src="thepaper/ggpcaplot.png" align="center" width="300">
 
-<img src="thepaper/biplot.png" width="200">
-<img src="thepaper/classificationTree.png" width="200">
-<img src="thepaper/rf.png" width="200">
+<img src="thepaper/biplot.png" align="center" width="300">
+<img src="thepaper/classificationTree.png" align="center" width="300">
+<img src="thepaper/rf.png" align="center" width="400">
 
 
 
